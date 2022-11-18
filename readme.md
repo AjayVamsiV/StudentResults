@@ -1,0 +1,1 @@
+This project displays jntuk student's results.
